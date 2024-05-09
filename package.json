@@ -1,0 +1,18 @@
+{
+  "name": "ideia-002",
+  "version": "1.0.0",
+  "description": "Teste, usando node",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nest": "^0.1.6",
+    "next": "^14.2.3",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  }
+}
